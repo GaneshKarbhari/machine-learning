@@ -2,18 +2,28 @@
 
 This Repository includes Machine Learning notebooks. Content is as follow;
 
-Module 1 Basics of Python
+Module 0 Data Preprocessing
 
-Module 2 Data Types and Data Structures
+Module 1 Classification
 
-Module 3 Data Frames
+Module 2 Linear Regression
 
-Module 4 Data Manipulation
+Module 3 LogistcRegression
 
-Module 5 Outlier Detection
+Module 4 K-means Clustering
 
-Module 6 Missing Value Imputation
+Module 5 Decision Tree
 
-Module 7 Visualization
+Module 6 KNN
+
+Module 7 SVM
+
+Module 8 Naive Bayes
+
+Module 9 Adaboost
+
+Module 10 PCA
+
+Module 11  Hyperparameter tuning and Model Evaluation
 
 Assignments
