@@ -1,0 +1,8 @@
+Assignment:
+Human Activity Recognition with Smartphones using Machine Learning  (use suitable dataset and modules like opencv)
+
+Details:
+
+Many of today's mobile devices are designed to automatically detect when we are engaging in a specific activity, such as running or cycling. 
+This is machine learning at work. To practice with this type of project, novice machine learning engineers use a dataset that contains fitness activity records for a few people (the more, the better) that was collected through mobile devices equipped with inertial sensors. 
+Learners can then build classification models that will accurately predict future activities. This can also help them understand how to solve multi-classification problems.
